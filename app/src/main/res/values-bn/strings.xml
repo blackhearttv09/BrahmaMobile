@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ব্রহ্ম</string>
+    <string name="accessibility_service_description">আপনি বললে ব্রহ্ম স্ক্রিন পড়তে, ট্যাপ করতে, টাইপ করতে ও স্ক্রল করতে পারবে। যেকোনো সময় এটি বন্ধ করা যাবে।</string>
+</resources>
